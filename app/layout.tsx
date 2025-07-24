@@ -6,23 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "Remisha Maharjan",
+    template: "UI/UX - Developer",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Skilled in turning ideas into smooth, responsive, and engaging digital experiences.",
   openGraph: {
-    title: "chronark.com",
+    title: "UI/UX - Developer",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
-    images: [
-      {
-        url: "https://chronark.com/og.png",
-        width: 1920,
-        height: 1080,
-      },
-    ],
+      "Skilled in turning ideas into smooth, responsive, and engaging digital experiences.",
+    url: "https://remishamaharjan.com.np",
+    siteName: "https://remishamaharjan.com.np",
     locale: "en-US",
     type: "website",
   },
@@ -36,10 +29,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-  },
-  twitter: {
-    title: "Chronark",
-    card: "summary_large_image",
   },
   icons: {
     shortcut: "/favicon.png",
